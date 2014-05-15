@@ -2,8 +2,7 @@ body {
 	background-color: white;
 }
 .navbar {
-	display: inline;
-    width: 100%;
+	width: 100%;
 }
 
 ul li a {
@@ -14,7 +13,7 @@ ul li a {
 #sign {
 	display: block;
 	height: 40px;
-	width: 70px;
+	width: 100px;
 	float: right;
 	font-family: Arial;
 	margin-right: 10px;
